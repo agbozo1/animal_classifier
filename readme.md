@@ -1,1 +1,1 @@
-Animal Classifier
+Animal Classifier - App
